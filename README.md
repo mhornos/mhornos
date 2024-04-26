@@ -3,7 +3,7 @@ Look at these repositories:
 - DAW 1:
   - [IPOP](https://github.com/mhornos/daw-ipop)
   - [Bases de datos](https://github.com/mhornos/DAW1-BD)
-  - [Buscaminas Java](https://github.com/mhornos/buscaminas)
+  - [Buscaminas Java](https://github.com/mhornos/Buscaminas)
   - [Entorns: Control de versions](https://github.com/mhornos/Entorns_Git)
   - [Entorns: Refacció](https://github.com/mhornos/Refaccio_mhornos)
 <!--
