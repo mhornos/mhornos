@@ -5,6 +5,7 @@ Look at these repositories:
   - [Bases de datos](https://github.com/mhornos/DAW1-BD)
   - [Buscaminas Java](https://github.com/mhornos/buscaminas)
   - [Entorns: Control de versions](https://github.com/mhornos/Entorns_Git)
+  - [Entorns: Refacció](https://github.com/mhornos/Refaccio_mhornos)
 <!--
 **mhornos/mhornos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
