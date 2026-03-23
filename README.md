@@ -15,4 +15,5 @@ Mira estos repositorios:
    - [Backend Pr5](https://github.com/mhornos/Pr5Backend-mhornos)
    - [Wonderful Travel](https://github.com/mhornos/wonderful_travel)
    - [Collections Prog](https://github.com/mhornos/mhornosCollections)
+   - [Backend Pr6](https://github.com/mhornos/pr6_backend_mhornos)
    - [Backend migració Laravel](https://github.com/mhornos/pr7)
