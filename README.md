@@ -2,6 +2,8 @@
 
 ### [Certificaciones técnicas de DAW](https://drive.google.com/drive/folders/1Az4EwE2VVtdSDDS3DBhNYY0YxMkcMnoL?usp=sharing)
 
+### Proyecto DAW: [TorqHub](https://github.com/mhornos/torqhub)
+
 Mira estos repositorios:
 - DAW 1:
   - [IPOP](https://github.com/mhornos/daw-ipop)
